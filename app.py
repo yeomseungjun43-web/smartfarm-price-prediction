@@ -5,7 +5,7 @@ import numpy as np
 import pickle
 import matplotlib.pyplot as plt
 import matplotlib
-from tensorflow.keras.models import load_model
+from keras.models import load_model
 from datetime import datetime, timedelta
 import sqlite3
 import importlib.util
