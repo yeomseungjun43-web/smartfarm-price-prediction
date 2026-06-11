@@ -1,8 +1,7 @@
 streamlit
-tensorflow==2.21.0
+keras
 scikit-learn
 pandas
 numpy
 matplotlib
 requests
-pyngrok
